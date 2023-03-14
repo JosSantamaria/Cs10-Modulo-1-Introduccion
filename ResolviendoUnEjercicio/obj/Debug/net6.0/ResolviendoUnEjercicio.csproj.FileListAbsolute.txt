@@ -1,0 +1,15 @@
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\bin\Debug\net6.0\ResolviendoUnEjercicio.exe
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\bin\Debug\net6.0\ResolviendoUnEjercicio.deps.json
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\bin\Debug\net6.0\ResolviendoUnEjercicio.runtimeconfig.json
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\bin\Debug\net6.0\ResolviendoUnEjercicio.dll
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\bin\Debug\net6.0\ResolviendoUnEjercicio.pdb
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.csproj.AssemblyReference.cache
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.AssemblyInfoInputs.cache
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.AssemblyInfo.cs
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.csproj.CoreCompileInputs.cache
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.dll
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\refint\ResolviendoUnEjercicio.dll
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.pdb
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ResolviendoUnEjercicio.genruntimeconfig.cache
+C:\wmp\www\x\d\F-G\CSharp 10\Modulo 1 - Introduccion\ResolviendoUnEjercicio\obj\Debug\net6.0\ref\ResolviendoUnEjercicio.dll
