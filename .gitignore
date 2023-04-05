@@ -293,6 +293,7 @@ __pycache__/
 /debug/
 *.cache
 !repositories.config
+<<<<<<< Updated upstream
 
 *.dll
 *.pdb
@@ -313,3 +314,5 @@ __pycache__/
 *.json
 *.cache
 *.editorconfig
+=======
+>>>>>>> Stashed changes
